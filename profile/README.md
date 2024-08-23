@@ -8,3 +8,6 @@ HyperCells is a GAP package that allows constructing primitive cells and superce
 
 ### HyperBloch
 HyperBloch is a Mathematica package for constructing tight-binding models on hyperbolic lattices and calculating their band structures using the supercell method.
+
+## Data sets and libraries
+- [cell-graph-library](https://github.com/HyperCells/cell-graph-library): A collection of pregenerated cell, model, and supercell model graphs for direct import in GAP, Mathematica, or for use in any other programming language by parsing the text files.
